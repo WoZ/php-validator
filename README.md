@@ -5,9 +5,9 @@ php-validator
 
 ## Yet another validator, WHY??
 
-**It's really fast, ugly inside, but fast**
+## It's very fast, but ugly inside
 
-There are many other cool validators, but for their user-friendly you must pay by time & memory of execution.
+There are many other cool validators, but for their usability you must pay by time & memory of execution.
 This validator gives you very simple and fast API. You can see benchmark results at bottom of [build logs](https://travis-ci.org/index0h/php-validator).
 
 ## Installation
